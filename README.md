@@ -25,6 +25,6 @@ Installation
 
 
 
-Improvments
+Improvements
 =========
 If this is too simple for you and you would like to add more features to this bare bones service, please fork it and send me the patch
